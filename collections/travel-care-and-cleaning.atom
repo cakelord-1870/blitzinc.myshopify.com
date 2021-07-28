@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://blitzinc.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://blitzinc.myshopify.com/collections/travel-care-and-cleaning.atom"/>
+  <title>Blitz</title>
+  <updated>2016-10-06T12:48:19-04:00</updated>
+  <author>
+    <name>Blitz</name>
+  </author>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385985925</id>
+    <published>2016-10-06T12:48:19-04:00</published>
+    <updated>2016-10-06T12:48:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/jewelry-wipes-1"/>
+    <title>Jewelry Wipes</title>
+    <s:type>Jewelry Care Products</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/Wipes.png?v=1624982478"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Jewelry Care Products<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Blitz® Jewelry Wipes is perfect for quick and easy cleaning at home, work, or travel.  Clean and restore the original brilliance to platinum, gold and silver jewelry.
+
+- 30 Disposable dry wipes (2.75 IN x 4 IN)
+- Contains no harsh chemicals
+- Non-Toxic and Environmentally Friendly
+- Made in the USA
+
+<strong>Blitz Stock # 2017</strong>
+
+Note: Do not use this product on pearls, opals, coral, lapis lazuli, malachite, ivory, 24 karat gold or lacquered surfaces.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gold</s:tag>
+    <s:tag>Platinum</s:tag>
+    <s:tag>Silver</s:tag>
+    <s:tag>Travel</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385985925</id>
+      <title>Default</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>BLITZ2017</s:sku>
+      <s:grams>54</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385979205</id>
+    <published>2016-10-06T12:47:00-04:00</published>
+    <updated>2016-10-06T12:47:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/ring-snuggies"/>
+    <title>Ring Snuggies®</title>
+    <s:type>Jewelry Care Products</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/Ring_Snuggies.png?v=1624982399"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Jewelry Care Products<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Blitz Ring Snuggies® may be applied AFTER the ring is on the finger, making them ideal for persons with enlarged knuckles or for ring sizing on the go. <br> <strong>Blitz Stock # 20938</strong></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Travel</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385979205</id>
+      <title>Default</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>BLITZ20938</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385910981</id>
+    <published>2016-10-06T12:37:51-04:00</published>
+    <updated>2016-10-06T12:37:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/foamz-jewelry-cleaner"/>
+    <title>Foamz Jewelry Cleaner</title>
+    <s:type>Liquid Jewelry Cleaner</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/Untitleddesign_47.png?v=1624982444"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Liquid Jewelry Cleaner<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Blitz® Foamz is the same trusted Blitz® Gem &amp; Jewelry Cleaner (Item# 651) in an easy-to-use foam. Foamz is formulated to clean and restore the brilliance to diamonds and other precious gemstone jewelry while at home or during travel. Takes up very little space - less than 2 square inches!
+<ul>
+<li>Travel Item- 2.5 oz</li>
+<li>Private Label available <a href="https://www.blitzinc.com/pages/blitz-wholesale"> <span style="color: #0000ff;">Visit our Wholesale Site for more info!</span></a>
+</li>
+<li>Non-Toxic and Environmentally Friendly</li>
+<li>Made in the USA</li>
+</ul>
+<strong>Blitz Stock # 657</strong> NOTE: Not for pearls, and soft stones. Use <span style="color: #0000ff;"><a title="Delicate Gem &amp; Pearl Cleaner" href="https://www.blitzinc.com/collections/jewelry-cleaning-liquid/products/delicate-gem-pearl-cleaner"><span style="color: #0000ff;">Delicate Gem &amp; Pearl Cleaner</span></a></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gold</s:tag>
+    <s:tag>Platinum</s:tag>
+    <s:tag>Silver</s:tag>
+    <s:tag>Travel</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385910981</id>
+      <title>Default</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>BLITZ657</s:sku>
+      <s:grams>141</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://blitzinc.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://blitzinc.myshopify.com/collections/firearm-cleaning-and-protection.atom"/>
+  <title>Blitz</title>
+  <updated>2016-10-06T12:48:00-04:00</updated>
+  <author>
+    <name>Blitz</name>
+  </author>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385984773</id>
+    <published>2016-10-06T12:48:00-04:00</published>
+    <updated>2016-10-06T12:48:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/blitz-odor-blocker-firearm-cloth"/>
+    <title>Blitz Odor Blocker Firearm Cloth</title>
+    <s:type>Firearm Care</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/20191_Odor-Blocker1.jpg?v=1624975740"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Firearm Care<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Blitz® Odor Blocking Firearm Cloth is ideal for neutralizing chemical odors. Cleans and protects firearms too!
+<ul>
+<li>Always place cloth back into a moisture proof pouch. Cloths can be used over and over.</li>
+<li>Do not wash, as it will remove the special cleaning agents.</li>
+<li>Contains no harsh chemicals.</li>
+<li>Size: 11" x 14"</li>
+<li>Non-Toxic &amp; Environmentally Friendly</li>
+<li>Made in the USA</li>
+</ul>
+<strong>Blitz Stock # 20191</strong> NOTE: ALL POLISHING CLOTHS MEASURED OPEN AND FLAT</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Firearms</s:tag>
+    <s:tag>Knives</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385984773</id>
+      <title>Default</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>BLITZ20191</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385983557</id>
+    <published>2016-10-06T12:48:00-04:00</published>
+    <updated>2016-10-06T12:48:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/blitz-scope-binocular-cloth"/>
+    <title>Blitz Scope &amp; Binocular Cloth</title>
+    <s:type>Firearm Care</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/20199_Scope-Binocular.jpg?v=1624975427"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Firearm Care<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Blitz® Scope &amp; Binocular Cloth is ideal for use on glasses, scopes, binoculars or other optics.
+<ul>
+<li>Cloth can be washed and re-used.</li>
+<li>Contains no harsh chemicals.</li>
+<li>Size: 8" x 8"</li>
+<li>Non-Toxic &amp; Environmentally Friendly</li>
+<li>Made in the USA</li>
+</ul>
+<strong>Blitz Stock # 20199</strong> NOTE: ALL POLISHING CLOTHS MEASURED OPEN AND FLAT</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Firearms</s:tag>
+    <s:tag>Knives</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385983557</id>
+      <title>Default</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku>BLITZ20199</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385982661</id>
+    <published>2016-10-06T12:47:00-04:00</published>
+    <updated>2016-10-06T12:47:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/blitz-firearm-cloth-17-x-17"/>
+    <title>Blitz Firearm Cloth - 17 x 17</title>
+    <s:type>Firearm Care</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/20190_17x17Firearm.jpg?v=1624975661"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Firearm Care<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Blitz® Firearm Cloth is ideal for most metal surfaces. The cloth contains non-abrasive oil which cleans any surface rust, dirt, or residue left by handling as well as many other airborne agents. Will leave your firearms, knives and any other metal surfaces clean and protected.
+<ul>
+<li>Always place cloth back into a moisture proof pouch. Cloths can be used over and over.</li>
+<li>Do not wash, as it will remove the special cleaning agents.</li>
+<li>Contains no harsh chemicals.</li>
+<li>Size: 17" x 17"</li>
+<li>Non-Toxic &amp; Environmentally Friendly</li>
+<li>Made in the USA</li>
+</ul>
+<strong>Blitz Stock # 20190</strong> NOTE: ALL POLISHING CLOTHS MEASURED OPEN AND FLAT</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Firearms</s:tag>
+    <s:tag>Knives</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385982661</id>
+      <title>Default</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>BLITZ20190</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385969925</id>
+    <published>2016-10-06T12:46:10-04:00</published>
+    <updated>2016-10-06T12:46:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/bore-gel"/>
+    <title>Gun Oil</title>
+    <s:type>Firearm Care</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/Untitleddesign_43.png?v=1624975584"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Firearm Care<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Blitz Gun Oil easily removes carbon, led and has a pleasant odor.
+<ul>
+<li>4 FL. OZ. (118mL) Gun Oil</li>
+<li>Non-Flammable</li>
+<li>Non-Toxic and Environmentally Friendly</li>
+<li>Made in the USA</li>
+</ul>
+<strong> Blitz Stock # 20192</strong></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Firearms</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385969925</id>
+      <title>Default</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>BLITZ20192</s:sku>
+      <s:grams>141</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385969413</id>
+    <published>2016-10-06T12:46:00-04:00</published>
+    <updated>2016-10-06T12:46:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/blitz-stock-and-grip-cloth"/>
+    <title>Blitz Stock and Grip Cloth</title>
+    <s:type>Firearm Care</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/20198_Stock-Grip.jpg?v=1624975699"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Firearm Care<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Blitz® Stock &amp; Grip Cloth is ideal for use on most fine wood and polymer firearm grips and gun stocks.
+<ul>
+<li>Always place cloth back into a moisture proof pouch. Cloths can be used over and over.</li>
+<li>Do not wash, as it will remove the special cleaning agents.</li>
+<li>Contains no harsh chemicals.</li>
+<li>Size: 11" x 14"</li>
+<li>Non-Toxic &amp; Environmentally Friendly</li>
+<li>Made in the USA</li>
+</ul>
+<strong>Blitz Stock # 20198</strong> NOTE: ALL POLISHING CLOTHS MEASURED OPEN AND FLAT</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Firearms</s:tag>
+    <s:tag>Knives</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385969413</id>
+      <title>Default</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>BLITZ20198</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385968709</id>
+    <published>2016-10-06T12:45:00-04:00</published>
+    <updated>2016-10-06T12:45:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/blitz-buffing-cloth-2-pack"/>
+    <title>Blitz Buffing Cloth - 2 Pack</title>
+    <s:type>Firearm Care</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/20197-Buffing-Cloth11.jpg?v=1624975772"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Firearm Care<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Blitz Wiping Cloths are created from 100% cotton flannel and intended for wiping any excess oils from your firearm during and after cleaning. Great to keep with your favorite outdoor gear for a handy clean cloth. Soft enough for most surfaces.
+<ul>
+<li>Cloth can be washed and re-used.</li>
+<li>Contains no harsh chemicals.</li>
+<li>Size: (2) 11" x 14"</li>
+<li>Non-Toxic &amp; Environmentally Friendly</li>
+<li>Made in the USA</li>
+</ul>
+<strong>Blitz Stock # 20197</strong> NOTE: ALL POLISHING CLOTHS MEASURED OPEN AND FLAT</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Firearms</s:tag>
+    <s:tag>Knives</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385968709</id>
+      <title>Default</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>BLITZ20197</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385966789</id>
+    <published>2016-10-06T12:45:00-04:00</published>
+    <updated>2016-10-06T12:45:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/blitz-firearm-cloth-11-x-14"/>
+    <title>Blitz Firearm Cloth - 11 x 14</title>
+    <s:type>Firearm Care</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/20196_11x14Firearm.jpg?v=1624975387"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Firearm Care<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Blitz® Firearm Cloth is ideal for most metal surfaces. The cloth contains non-abrasive oil which cleans any surface rust, dirt, or residue left by handling as well as many other airborne agents. Will leave your firearms, knives and any other metal surfaces clean and protected.
+<ul>
+<li>Always place cloth back into a moisture proof pouch. Cloths can be used over and over.</li>
+<li>Do not wash, as it will remove the special cleaning agents.</li>
+<li>Contains no harsh chemicals.</li>
+<li>Size: 11" x 14"</li>
+<li>Non-Toxic &amp; Environmentally Friendly</li>
+<li>Made in the USA</li>
+</ul>
+<strong>Blitz Stock # 20196</strong> NOTE: ALL POLISHING CLOTHS MEASURED OPEN AND FLAT</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Firearms</s:tag>
+    <s:tag>Knives</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385966789</id>
+      <title>Default</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>BLITZ20196</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385966021</id>
+    <published>2016-10-06T12:45:00-04:00</published>
+    <updated>2016-10-06T12:45:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/blitz-bow-care-cloth"/>
+    <title>Blitz Bow Care Cloth</title>
+    <s:type>Firearm Care</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/20195_Bow-Care.jpg?v=1624975470"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Firearm Care<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Blitz® Bow Care Cloth is a plush suede microfiber cloth developed for wiping dust and grime that may build up from field use or storage. For use on all types of bows and soft enough for most surfaces.
+<div>
+<ul>
+<li>Cloth can be washed and re-used.</li>
+<li>Not for use on bow strings.</li>
+<li>Contains no harsh chemicals.</li>
+<li>Size: Polishing Cloth 8" x 8"</li>
+<li>Non-Toxic &amp; Environmentally Friendly</li>
+<li>Made in the USA</li>
+</ul>
+<strong>Blitz Stock # 20195</strong> NOTE: ALL POLISHING CLOTHS MEASURED OPEN AND FLAT</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Firearms</s:tag>
+    <s:tag>Knives</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385966021</id>
+      <title>Default</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku>BLITZ20195</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385965445</id>
+    <published>2016-10-06T12:45:00-04:00</published>
+    <updated>2016-10-06T12:45:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/blitz-silicone-gun-reel-cloth"/>
+    <title>Blitz Silicone Gun &amp; Reel Cloth</title>
+    <s:type>Firearm Care</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/20194_Silicone-Reel.jpg?v=1624975551"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Firearm Care<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Blitz® Gun &amp; Reel Cloth is ideal for cleaning most firearms, fishing tackle and other outdoor equipment. Leaves a protective coating to condition metals and helps to prevent rust.
+<ul>
+<li>Always place cloth back into a moisture proof pouch. Cloths can be used over and over.</li>
+<li>DO NOT WASH, as it will remove the special cleaning agents.</li>
+<li>Contains no harsh chemicals.</li>
+<li>Size: 11" x 14"</li>
+<li>Non-Toxic &amp; Environmentally Friendly</li>
+<li>Made in the USA</li>
+</ul>
+<strong>Blitz Stock # 20194</strong> NOTE: ALL POLISHING CLOTHS MEASURED OPEN AND FLAT</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Firearms</s:tag>
+    <s:tag>Knives</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385965445</id>
+      <title>Default</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>BLITZ20194</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385964613</id>
+    <published>2016-10-06T12:45:00-04:00</published>
+    <updated>2016-10-06T12:45:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/blitz-firearm-wipes"/>
+    <title>Blitz Firearm Wipes</title>
+    <s:type>Firearm Care</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/Firearm-Wipes.jpg?v=1624975619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Firearm Care<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Blitz Firearm Wipes provide a fast and convenient method for cleaning and protecting your firearms, knives, fishing tackle and other outdoor equipment. Leaves a protective coating to condition metal and helps prevent rust.
+<ul>
+<li>Applies synthetic layer of gun oil</li>
+<li>Gun Wipes protects firearm from moisture</li>
+<li>Easy to use gun wipes</li>
+<li>30 3.25 IN x 5.5 IN wipes</li>
+<li>Contains no harsh chemicals</li>
+<li>Made in the USA</li>
+</ul>
+<strong>Blitz Stock # 20193</strong></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Firearms</s:tag>
+    <s:tag>Knives</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385964613</id>
+      <title>Default</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>BLITZ20193</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+</feed>
