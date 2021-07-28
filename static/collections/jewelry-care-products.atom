@@ -1,0 +1,1182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://blitzinc.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://blitzinc.myshopify.com/collections/jewelry-care-products.atom"/>
+  <title>Blitz</title>
+  <updated>2016-11-15T10:50:00-05:00</updated>
+  <author>
+    <name>Blitz</name>
+  </author>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385992517</id>
+    <published>2016-11-15T10:50:00-05:00</published>
+    <updated>2016-11-15T10:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/hermans-simply-clean"/>
+    <title>Herman&apos;s Simply Clean</title>
+    <s:type>Liquid Jewelry Cleaner</s:type>
+    <s:vendor>Herman&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/hermans-simply-clean.jpg?v=1624977055"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Herman&#39;s<br>
+        <strong>Type: </strong>Liquid Jewelry Cleaner<br>
+        <strong>Price: </strong>
+            13.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Developed by an internationally respected silver conservator who has researched polishes for 30+ years.</li>
+<li>Mild enough for museum objects and your finest sterling and silver-plated flatware, holloware, and jewelry</li>
+<li>Contains no harsh abrasives</li>
+<li>No ammonia</li>
+<li>No acids</li>
+<li>Non-toxic</li>
+<li>Earth-friendly</li>
+<li>pH: 7.5</li>
+<li>Fragrance-free</li>
+<li>Creamy consistency</li>
+<li>Leaves no residue</li>
+<li>Removes fingerprints from stainless steel</li>
+<li>Complimentary silver cleaning assistance</li>
+<li>Made in the USA</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385992517</id>
+      <title>Default</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>BLITZ21031R</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385985925</id>
+    <published>2016-10-06T12:48:19-04:00</published>
+    <updated>2016-10-06T12:48:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/jewelry-wipes-1"/>
+    <title>Jewelry Wipes</title>
+    <s:type>Jewelry Care Products</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/Wipes.png?v=1624982478"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Jewelry Care Products<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Blitz® Jewelry Wipes is perfect for quick and easy cleaning at home, work, or travel.  Clean and restore the original brilliance to platinum, gold and silver jewelry.
+
+- 30 Disposable dry wipes (2.75 IN x 4 IN)
+- Contains no harsh chemicals
+- Non-Toxic and Environmentally Friendly
+- Made in the USA
+
+<strong>Blitz Stock # 2017</strong>
+
+Note: Do not use this product on pearls, opals, coral, lapis lazuli, malachite, ivory, 24 karat gold or lacquered surfaces.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gold</s:tag>
+    <s:tag>Platinum</s:tag>
+    <s:tag>Silver</s:tag>
+    <s:tag>Travel</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385985925</id>
+      <title>Default</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>BLITZ2017</s:sku>
+      <s:grams>54</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385979205</id>
+    <published>2016-10-06T12:47:00-04:00</published>
+    <updated>2016-10-06T12:47:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/ring-snuggies"/>
+    <title>Ring Snuggies®</title>
+    <s:type>Jewelry Care Products</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/Ring_Snuggies.png?v=1624982399"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Jewelry Care Products<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Blitz Ring Snuggies® may be applied AFTER the ring is on the finger, making them ideal for persons with enlarged knuckles or for ring sizing on the go. <br> <strong>Blitz Stock # 20938</strong></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Travel</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385979205</id>
+      <title>Default</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>BLITZ20938</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385970437</id>
+    <published>2016-10-06T12:46:15-04:00</published>
+    <updated>2016-10-06T12:46:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/microfiber-optical-lens-cloth"/>
+    <title>Microfiber Optical Lens Cloth</title>
+    <s:type>Jewelry Care Products</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/Optical-Lens-Cloth.jpg?v=1624983339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Jewelry Care Products<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Optical and Lens Cloth Finally, someone made an optical and lens cloth that actually works! Use this cloth for cleaning sunglasses, eyeglasses, binoculars, telescopes, CD's, DVD's, TV's, and etc. Since this lens cleaner is made from microfiber, it won't ever streak or leave dust and lint behind.
+<ul>
+	<li>8" x 8"</li>
+	<li>Cloth contains no harsh chemicals or abrasives.</li>
+	<li>Non-Toxic &amp; Environmentally Friendly</li>
+	<li>Made in the USA</li>
+</ul>
+<strong>Blitz Stock # 20461</strong>
+
+NOTE: ALL CLOTHS MEASURED OPEN AND FLAT</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Binoculars</s:tag>
+    <s:tag>Microfiber</s:tag>
+    <s:tag>Opticals</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385970437</id>
+      <title>Default</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>BLITZ20461</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385940421</id>
+    <published>2016-10-06T12:41:53-04:00</published>
+    <updated>2016-10-06T12:41:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/watch-care-kit"/>
+    <title>Watch Care Kit</title>
+    <s:type>Jewelry Care Kits</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/Watch-Care-Kit.jpg?v=1624982860"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Jewelry Care Kits<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Blitz® Watch Care Kit is specially formulated for the care of gold, silver, platinum and leather watches.  Not for use on porous gems and pearls.
+<ul>
+	<li>
+<strong>Do not wash</strong>, will remove special cleaning agents.</li>
+	<li>Cloths contains no harsh chemicals or abrasives.</li>
+	<li>Non-Toxic &amp; Environmentally Friendly</li>
+	<li>Made in the USA</li>
+</ul>
+ 
+
+PACKAGE CONTENTS:
+<ul>
+	<li>4" x 6" Polishing Cloth: Cleans and restores the original brilliance to your watch face.</li>
+	<li>4" x 6" Silicone Leather Treatment Cloth: Clean and Protect your leather watch bands.</li>
+	<li>Blitz Foamz: Deep cleans your metal, diamond and gem stone jewelry without the mess.</li>
+	<li>8" x 8" Microfiber Cloth: Cleans and takes special care of crystal faces. These cloths are designed to be lint free and are designed to not scratch or damage your watch face in any way.</li>
+</ul>
+<strong>Blitz Stock # 20680</strong>
+
+NOTE: ALL CLOTHS MEASURED OPEN AND FLAT</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gold</s:tag>
+    <s:tag>Platinum</s:tag>
+    <s:tag>Silver</s:tag>
+    <s:tag>Stainless Steel</s:tag>
+    <s:tag>Watch</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385940421</id>
+      <title>Default</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>BLITZ20680</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385939461</id>
+    <published>2016-10-06T12:41:44-04:00</published>
+    <updated>2016-10-06T12:41:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/jewelry-care-kit"/>
+    <title>Jewelry Care Kit</title>
+    <s:type>Jewelry Care Kits</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/Jewelry-Care-Kit-New.jpg?v=1624982569"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Jewelry Care Kits<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This kit includes an 8 oz. Gem &amp; Jewelry Cleaner (Item# 651) and a 6" x 8" Jewelry Care Cloth (J68).  The contents of this kit are specially formulated for the care of gold, silver, platinum, diamond and precious gemstone jewelry.  Not for use on porous gems and pearls.
+<ul>
+	<li>Cloth contains no harsh chemicals or abrasives.</li>
+	<li>Non-Toxic &amp; Environmentally Friendly</li>
+	<li>Made in the USA</li>
+</ul>
+<strong>Blitz Stock # 692</strong>
+
+NOTE: ALL CLOTHS MEASURED OPEN AND FLAT
+INDIVIDUAL JAR COLOR OR CLOTH MAY VARY.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gold</s:tag>
+    <s:tag>Platinum</s:tag>
+    <s:tag>Silver</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385939461</id>
+      <title>Default</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>BLITZ692</s:sku>
+      <s:grams>313</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385913925</id>
+    <published>2016-10-06T12:38:17-04:00</published>
+    <updated>2016-10-06T12:38:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/silver-jewelry-polish"/>
+    <title>Silver Jewelry Polish</title>
+    <s:type>Liquid Jewelry Cleaner</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/Untitleddesign_44_4a83f1ca-6071-419a-84ab-dfd3661e685a.png?v=1624982820"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Liquid Jewelry Cleaner<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This specially formulated polish contains non-toxic tarnish inhibitors to remove tarnish and prevent it from returning, leaving a mirror like finish to your silver jewelry! Simply remove the cap and apply polish to the surface of your jewelry. Use a lint free &amp; non-abrasive cloth to polish away tarnish and surface imperfections.
+<ul>
+<li>Odor free</li>
+<li>Private Label available <span style="color: #0000ff;"><a href="https://www.blitzinc.com/pages/blitz-wholesale"><span style="color: #0000ff;">Visit our Wholesale Site for more info!</span></a></span>
+</li>
+<li>Non-Toxic and Environmentally Friendly</li>
+<li>Made in the USA</li>
+</ul>
+<strong>Blitz Stock # 611</strong> NOTE: NOT FOR USE ON LACQUERED SURFACES</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Silver</s:tag>
+    <s:tag>Silver Polish</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385913925</id>
+      <title>Default</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>BLITZ611</s:sku>
+      <s:grams>395</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385913221</id>
+    <published>2016-10-06T12:38:10-04:00</published>
+    <updated>2016-10-06T12:38:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/fashion-jewelry-cleaner"/>
+    <title>Fashion Jewelry Cleaner</title>
+    <s:type>Liquid Jewelry Cleaner</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/Fashion-Jewelry-Cleaner.jpg?v=1624982708"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Liquid Jewelry Cleaner<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2></h2>
+Specially formulated to restore the shine and brilliance to your favorite fashion and costume jewelry! This unique non-toxic cleaner comes with a dipping basket and brush, perfect for those hard to reach places in settings or design. Perfect for the avid jewelry collector!
+<ul>
+<li>Fashion Jewelry Cleaner for use on fashion and costume jewelry</li>
+<li>Includes basket and brush</li>
+<li>Private Label available <a href="https://www.blitzinc.com/pages/blitz-wholesale"> <span style="color: #0000ff;">Visit our Wholesale Site for more info!</span></a>
+</li>
+<li>Non-Toxic and Environmentally Friendly</li>
+<li>Made in the USA</li>
+</ul>
+<strong> Blitz Item # 661</strong></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion Jewelry</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385913221</id>
+      <title>Default</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>BLITZ661</s:sku>
+      <s:grams>281</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385915845</id>
+    <published>2016-10-06T12:38:00-04:00</published>
+    <updated>2016-10-06T12:38:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/ultrasonic-silver-cleaning-kit"/>
+    <title>Ultrasonic Silver Cleaning Kit</title>
+    <s:type>Jewelry Cleaning Machines</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/ultrasonic_silver_cleaning_kit_medium_bac14fc8-f310-434f-bf16-283b9a2c7be0.jpg?v=1624977116"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Jewelry Cleaning Machines<br>
+        <strong>Price: </strong>
+            10.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Ultrasonic Silver Cleaning Kit easily removes tarnish from silver and consists of the special re-usable Silver Cleaning Plate and 4 Activator Packets. For use with an Ultrasonic jewelry cleaning machine. Mix 10:1 ratio with HOT tap or distilled water.
+<ul>
+<li>Non-Toxic and Environmentally Friendly</li>
+<li>Made in the USA</li>
+</ul>
+<strong>Blitz Stock #20762</strong> NOTE: The silver cleaning plate is suitable to be used more than once. You simply will need more of the packets, which can be purchased at any time. WARNING: Soft and porous stones, or any other gems may not be suitable for an ultrasonic cleaner. Do not store the silver cleaning plate in the solution between uses.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Silver</s:tag>
+    <s:tag>Ultrasonic</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385915845</id>
+      <title>Default</title>
+      <s:price currency="USD">10.95</s:price>
+      <s:sku>BLITZ20762</s:sku>
+      <s:grams>141</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385915013</id>
+    <published>2016-10-06T12:38:00-04:00</published>
+    <updated>2016-10-06T12:38:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/silvershine-silver-jewelry-cleaner"/>
+    <title>Silver Shine Instant Jewelry Cleaner</title>
+    <s:type>Jewelry Care Kits</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/681-NEW-packaging1.jpg?v=1624977144"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Jewelry Care Kits<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Easily and instantly remove tarnish from silver without the use of harsh or toxic chemicals. Using nothing but tap water and our Activator Solution, watch as tarnish is immediately lifted from the surface of your silver. Each box of this silver jewelry cleaner contains a 4" x 6" two-ply treated silver buffing and polishing cloth, three of the special trays, basket, and a ready to mix silver cleaning solution. It all comes packaged in a wide mouth jar to easily clean larger pieces of silver jewelry. Refills of the <span style="color: #0000ff;"><a title="Activator Solution" href="https://www.blitzinc.com/collections/jewelry-cleaning-liquid/products/activator-solution"><span style="color: #0000ff;">Activator Solution</span></a></span> can be purchased right here at Blitzinc.com!
+<ul>
+<li>
+<strong>Do not wash</strong>, will remove special cleaning agents.</li>
+<li>Cloth contains no harsh chemicals or abrasives.</li>
+<li>Non-Toxic &amp; Environmentally Friendly</li>
+<li>Made in the USA</li>
+</ul>
+<strong>Blitz Stock # 681</strong> Need instructions for use? Watch the <span style="color: #0000ff;"><a title="Silver Shine Tutorial " href="http://www.youtube.com/watch?v=JmDURDOSMc0"><span style="color: #0000ff;">Silver Shine Instant Jewelry Cleaner Tutorial Video</span></a>!</span> NOTE: ALL CLOTHS MEASURED FLAT AND OPEN</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Silver</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385915013</id>
+      <title>Default</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>BLITZ681</s:sku>
+      <s:grams>168</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385912005</id>
+    <published>2016-10-06T12:37:58-04:00</published>
+    <updated>2016-10-06T12:37:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/delicate-gem-pearl-cleaner"/>
+    <title>Delicate Gem &amp; Pearl Cleaner</title>
+    <s:type>Liquid Jewelry Cleaner</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/Delicate-Gem-Pearl-Cleaner.jpg?v=1624982604"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Liquid Jewelry Cleaner<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This cleaner is formulated to gently clean and restore the luster to emerald, ivory, onyx, opal, pearl, turquoise, lapis lazuli, coral, malachite and other porous precious and semi-precious gem jewelry. Restore the shine and brilliance to your most delicate jewelry without the use of harsh or toxic chemicals.
+<ul>
+<li>Includes basket &amp; brush for hard to reach cleaning</li>
+<li>Private Label available <a href="https://www.blitzinc.com/pages/blitz-wholesale"> <span style="color: #0000ff;">Visit our Wholesale Site for more info!</span></a>
+</li>
+<li>Non-Toxic and Environmentally Friendly</li>
+<li>Made in the U.S.A.</li>
+</ul>
+<strong>8 oz Jar - Blitz Stock # 671</strong> <strong>8 oz Bottle - Blitz Stock # 673</strong></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Delicate Gems</s:tag>
+    <s:tag>Pearls</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385912005</id>
+      <title>8 oz Jar</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>BLITZ671</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385912005</id>
+      <title>8 oz Bottle</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>BLITZ673</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385909637</id>
+    <published>2016-10-06T12:37:00-04:00</published>
+    <updated>2016-10-06T12:37:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/gem-jewelry-cleaner"/>
+    <title>Gem &amp; Jewelry Cleaner</title>
+    <s:type>Liquid Jewelry Cleaner</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/651-NEW.jpg?v=1624982511"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Liquid Jewelry Cleaner<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Gem &amp; Jewelry Cleaner (#651) is our number one seller to professional jewelers and customers all over the United States. Utilizing a gentle and non-toxic formula, this liquid cleaner removes dirt, fingerprints and build-up from hard to reach settings of your favorite fine jewelry. For use on gold, silver, platinum, diamond, ruby, sapphire, topaz, amethyst, aquamarine, garnet, peridot, and other non-porous precious and semi-precious gems &amp; jewelry.
+<ul>
+<li>Includes basket &amp; brush for hard to reach cleaning</li>
+<li>Private Label available - <span style="color: #0000ff;"><a href="https://www.blitzinc.com/pages/blitz-wholesale"><span style="color: #0000ff;"> Visit our Wholesale Site for more info!</span></a></span>
+</li>
+<li>NO AMMONIA, Non-Toxic and Environmentally Friendly</li>
+<li>Made in the U.S.A.</li>
+</ul>
+<strong>Blitz Stock # 651</strong> NOTE: This product will not remove tarnish from silver jewelry. If you would like a tarnish remover for silver jewelry, please try our<span style="color: #0000ff;"><a href="https://www.blitzinc.com/products/silvershine-silver-jewelry-cleaner/"><span style="color: #0000ff;"> SilverShine Silver Jewelry Cleaner</span></a></span>.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gold</s:tag>
+    <s:tag>Jewelry Cleaner</s:tag>
+    <s:tag>Platinum</s:tag>
+    <s:tag>Silver</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385909637</id>
+      <title>Default</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>BLITZ651</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385906565</id>
+    <published>2016-10-06T12:37:00-04:00</published>
+    <updated>2016-10-06T12:37:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/gem-jewelry-cleaner-concentrate"/>
+    <title>Gem &amp; Jewelry Cleaner Concentrate</title>
+    <s:type>Liquid Jewelry Cleaner</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/Gem-Cleaner.png?v=1624982633"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Liquid Jewelry Cleaner<br>
+        <strong>Price: </strong>
+            7.95 - 29.95
+            <a href="https://blitzinc.myshopify.com/products/gem-jewelry-cleaner-concentrate">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Gem and Jewelry Cleaner Concentrate is a non-toxic concentrated liquid that mixes with water to clean jewelry in all types of jewelry cleaning machines and ultrasonic jewelry cleaning machines. This non-toxic formula is for use in all types of jewelry cleaning machines and is specially formulated for the cleaning &amp; care of gold, silver, platinum, diamonds, ruby, sapphire, topaz, amethyst, garnet, peridot and other non-porous precious and semi-precious gem jewelry.
+<ul>
+<li>Scent Free</li>
+<li>5:1 ratio</li>
+<li>Non-Toxic and Environmentally Friendly</li>
+<li>Made in the USA</li>
+</ul>
+<strong>8 fl. oz. Blitz Stock # 653 </strong><strong>1 Gallon Blitz Stock # 654</strong> NOTE: Do not use on Soft Stones or Pearls: Use <span style="color: #0000ff;"><a title="Delicate Gem &amp; Pearl Cleaner" href="https://www.blitzinc.com/collections/jewelry-cleaning-liquid/products/delicate-gem-pearl-cleaner"><span style="color: #0000ff;">Blitz® Delicate Gem &amp; Pearl Cleaner</span></a></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Concentrate</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:tag>Platinum</s:tag>
+    <s:tag>Silver</s:tag>
+    <s:tag>Ultrasonic</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385906565</id>
+      <title>8 oz bottle</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>BLITZ653</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385906565</id>
+      <title>1 gallon</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>BLITZ654</s:sku>
+      <s:grams>3783</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385900805</id>
+    <published>2016-10-06T12:36:21-04:00</published>
+    <updated>2016-10-06T12:36:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/ultra-silver-polishing-cloth"/>
+    <title>Ultra Silver Polishing Cloth</title>
+    <s:type>Jewelry Polishing Cloths</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/Ultra-Silver-Polishing-Cloth.jpg?v=1624977254"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Jewelry Polishing Cloths<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This cloth restores your silver jewelry, silver-plate and hollowware to its original brilliance.  This cloth will remove tarnish from the surface of silver while also applying a tarnish inhibiting layer to the surface allowing for longer protection.  This single-ply silver polishing cloth can be used again and again, even after the cloth begins to darken.
+<ul>
+	<li>
+<strong>Do not wash</strong>, will remove special cleaning agents.</li>
+	<li>Cloth contains no harsh chemicals or abrasives.</li>
+	<li>Non-Toxic &amp; Environmentally Friendly</li>
+	<li>Made in the USA</li>
+</ul>
+<strong>Blitz Stock # 93118</strong>
+
+The Ultra Silver Polishing Cloth is not meant for use on lacquered surfaces.
+
+NOTE: ALL POLISHING CLOTHS MEASURED OPEN AND FLAT
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Silver</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385900805</id>
+      <title>Default</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>BLITZ93118</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385900101</id>
+    <published>2016-10-06T12:36:14-04:00</published>
+    <updated>2016-10-06T12:36:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/ultra-jewelry-polishing-cloth"/>
+    <title>Ultra Jewelry Polishing Cloth</title>
+    <s:type>Jewelry Polishing Cloths</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/Ultra-Jewelry-Polishing-Cloth.jpg?v=1624983255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Jewelry Polishing Cloths<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This 2-ply cloth does double the work:  the inner cloth is treated with tarnish removing and inhibiting ingredients to clean and protect your finest precious metals including gold, silver and platinum.  The outer cloth is made of un-treated soft cotton flannel to polish and buff the surface of your jewelry, restoring it to a mirror-like finish.  Also cleans Flatware, Hollowware and many other surfaces.
+<ul>
+	<li>
+<strong>Do not wash</strong>, will remove special cleaning agents.</li>
+	<li>Cloth contains no harsh chemicals or abrasives.</li>
+	<li>Non-Toxic &amp; Environmentally Friendly</li>
+	<li>Made in the USA</li>
+</ul>
+<strong>Blitz Stock # 93117</strong>
+
+NOTE: ALL POLISHING CLOTHS MEASURED OPEN AND FLAT</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brass</s:tag>
+    <s:tag>Bronze</s:tag>
+    <s:tag>Copper</s:tag>
+    <s:tag>Flatware</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:tag>Holloware</s:tag>
+    <s:tag>Platinum</s:tag>
+    <s:tag>Silver</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385900101</id>
+      <title>Default</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>BLITZ93117</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385899333</id>
+    <published>2016-10-06T12:36:09-04:00</published>
+    <updated>2016-10-06T12:36:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/moonglow-cloth-for-rhodium"/>
+    <title>MoonGlow Cloth for Rhodium</title>
+    <s:type>Jewelry Polishing Cloths</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/moonglow-for-rhodium.jpg?v=1624983391"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Jewelry Polishing Cloths<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This cloth is soft and simple to use. Buff lightly to remove moisture, streaks, or dirt** and your dull metal will shine again. If you need a soft cloth to wipe, buff, or just clean after steaming, or other rinsing and cleaning, this is perfect and it cleans white gold too!
+<ul>
+<li>Treatment-Free Microfiber Cloth</li>
+<li>For rhodium-plated silver or white gold</li>
+<li>Washable</li>
+<li>Approximately 8" x 8"</li>
+<li>Soft white color only</li>
+<li>Private Label available <span style="color: #0000ff;"><a href="https://www.blitzinc.com/pages/blitz-wholesale"><span style="color: #0000ff;"> Visit our Wholesale Site for more info!</span></a></span>
+</li>
+<li>Cloth contains no harsh chemicals or abrasives.</li>
+<li>Non-Toxic &amp; Environmentally Friendly</li>
+<li>Made in the USA</li>
+</ul>
+<strong>Blitz Stock # 20880</strong> **Dirt particles like sand, can severely scratch glass, plastic, or metal. Makes sure to loosen gently, or (if possible) rinse item first to remove gritty particles. NOTE: ALL CLOTHS MEASURED OPEN AND FLAT</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Rhodium</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385899333</id>
+      <title>Default</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>BLITZ20880</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385898629</id>
+    <published>2016-10-06T12:36:04-04:00</published>
+    <updated>2016-10-06T12:36:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/moonglow-cloth-for-pearl-care"/>
+    <title>MoonGlow Cloth for Pearl Care</title>
+    <s:type>Jewelry Polishing Cloths</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/MoonGlow-for-Pearls.jpg?v=1624552125"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Jewelry Polishing Cloths<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Made of the finest suede-like microfiber cloth and treated with unique ingredients specially chosen to enhance and preserve your valuable jewelry investment.  This cloth has a special all-vegetable derived oil. The cloth will quickly clean any pearl and yet not remove the essential oils and substances of your soft stone. Easy to use. Just lightly rub your cloth on pearl or pearlescent jewel and it will come clean.
+<ul>
+	<li>
+<strong>Do not wash</strong>, will remove special cleaning agents.</li>
+	<li>Cloth contains no harsh chemicals or abrasives.</li>
+	<li>Non-Toxic &amp; Environmentally Friendly</li>
+	<li>Made in the USA</li>
+</ul>
+<strong>Blitz Stock # 20466</strong>
+
+For more intense cleaning, use our <span style="color: #0000ff;"><a href="https://www.blitzinc.com/products/delicate-gem-pearl-cleaner/"><span style="color: #0000ff;">Blitz Gem and Pearl Cleaner</span></a></span>, or Blitz recommends <span style="color: #0000ff;"><a href="https://www.blitzinc.com/products/moonglow-cloth-for-soft-gems/"><span style="color: #0000ff;">Blitz MoonGlow Cloth for Soft Gems</span></a></span><span style="color: #0000ff;"><span style="color: #0000ff;">.</span></span>
+
+NOTE: ALL CLOTHS MEASURED OPEN AND FLAT</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mother of Pearl</s:tag>
+    <s:tag>Pearls</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385898629</id>
+      <title>Default</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>BLITZ20466</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385897861</id>
+    <published>2016-10-06T12:36:00-04:00</published>
+    <updated>2016-10-06T12:36:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/moonglow-cloth-for-soft-gems"/>
+    <title>MoonGlow Cloth for Soft Gems</title>
+    <s:type>Jewelry Polishing Cloths</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/moonglow-for-soft-gems.jpg?v=1624552123"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Jewelry Polishing Cloths<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This cloth has a special light-silicone application that is not oily, messy, or heavy. The cloth will quickly clean any soft stone and yet not remove the essential oils and substances of your soft stone. It is so easy to use. Just lightly rub your cloth and setting and makeup will come clean.
+<ul>
+	<li>For Use on Soft Stones and Gems*</li>
+	<li>
+<strong>Do not wash</strong>, will remove special cleaning agents.</li>
+	<li>Cloth contains no harsh chemicals or abrasives.</li>
+	<li>Non-Toxic &amp; Environmentally Friendly</li>
+	<li>Made in the USA</li>
+</ul>
+<strong>Blitz Stock # 20465</strong>
+
+*For more intense cleaning, use our <span style="color: #0000ff;"><a href="https://www.blitzinc.com/products/delicate-gem-pearl-cleaner/"><span style="color: #0000ff;">Blitz Gem and Pearl Cleaner</span></a></span>.
+
+**Dirt particles like sand, can severely scratch glass, plastic, soft stones, or metal.  Makes sure to loosen gently, or (if possible) rinse item first to remove gritty particles.
+
+NOTE: ALL CLOTHS MEASURED OPEN AND FLAT</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Soft Gems</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385897861</id>
+      <title>Default</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>BLITZ20465</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385896773</id>
+    <published>2016-10-06T12:35:50-04:00</published>
+    <updated>2016-10-06T12:35:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/moonglow-cloth-for-precious-metals"/>
+    <title>MoonGlow Cloth for Precious Metals</title>
+    <s:type>Jewelry Polishing Cloths</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/moonglow-for-precious-metals.jpg?v=1624552119"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Jewelry Polishing Cloths<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Made of the finest suede-like microfiber cloth and treated with unique ingredients specially chosen to enhance and preserve your valuable jewelry investment. This cloth is soft and simple to use. Buff lightly to remove tarnish and your dull precious metal will shine again.
+<ul>
+<li>Soft white color only</li>
+<li>Approximately 8" x 8"</li>
+<li>Private Label available <span style="color: #0000ff;"><a href="https://www.blitzinc.com/pages/blitz-wholesale"><span style="color: #0000ff;"> Visit our Wholesale Site for more info!</span></a></span>
+</li>
+<li>
+<strong>Do not wash</strong>, will remove special cleaning agents.</li>
+<li>Cloth contains no harsh chemicals or abrasives.</li>
+<li>Non-Toxic &amp; Environmentally Friendly</li>
+<li>Made in the USA</li>
+</ul>
+<strong>Blitz Stock # 20463</strong> NOTE: ALL CLOTHS MEASURED OPEN AND FLAT Not for use on lacquered silver or rhodium plated silver. Do not use on thin plated items, or frosted silver. For rhodium plated silver use<span style="color: #0000ff;"><a href="https://www.blitzinc.com/products/moonglow-cloth-for-rhodium/"> </a></span><span style="color: #0000ff;"><a href="https://www.blitzinc.com/products/moonglow-cloth-for-rhodium/"><span style="color: #0000ff;">Blitz MoonGlow Microfiber for Rhodium Metals</span></a></span>.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gold</s:tag>
+    <s:tag>Platinum</s:tag>
+    <s:tag>Silver</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385896773</id>
+      <title>Default</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>BLITZ20463</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385896133</id>
+    <published>2016-10-06T12:35:42-04:00</published>
+    <updated>2016-10-06T12:35:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/ultra-brass-polishing-cloth"/>
+    <title>Ultra Brass Polishing Cloth</title>
+    <s:type>Jewelry Polishing Cloths</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/Ultra-Brass-Polishing-Cloth.jpg?v=1624983192"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Jewelry Polishing Cloths<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This unique brass polishing cloth cloth was developed to clean brass &amp; remove tarnish. The 100% cotton flannel cloth is thoroughly impregnated with cleaning and polishing agents formulated for brass.  The non-toxic ingredients are specially formulated with tarnish removers and inhibitors; not only will this cloth remove tarnish, it will protect your favorite brass jewelry or collectibles from tarnishing!
+<ul>
+	<li>
+<strong>Do not wash</strong>, will remove special cleaning agents.</li>
+	<li>Cloth contains no harsh chemicals or abrasives.</li>
+	<li>Non-Toxic &amp; Environmentally Friendly</li>
+	<li>Made in the USA</li>
+</ul>
+<strong>Blitz Stock # 93109</strong>
+
+NOTE: ALL POLISHING CLOTHS MEASURED OPEN AND CLOSED</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brass</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385896133</id>
+      <title>Default</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>BLITZ93109</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385894405</id>
+    <published>2016-10-06T12:35:00-04:00</published>
+    <updated>2016-10-06T12:35:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/diamond-gem-microfiber-cloth"/>
+    <title>Diamond &amp; Gem Microfiber Cloth</title>
+    <s:type>Jewelry Polishing Cloths</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/Screen-Clean-Microfiber.jpg?v=1624983289"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Jewelry Polishing Cloths<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Diamond &amp; Gem Microfiber Cloth was originally created for the buffing and polishing of loose diamonds and gems however customers have come to find this little cloth to be the perfect tool for cleaning smart phone and television screens! The soft microfiber material removes fingerprints and moisture from the surface of diamonds, gems, photos, tablet screens, watch faces, musical instruments and more. When the microfiber cloth is dirty, simply wash in warm soapy water and dry.
+<ul>
+<li>Stock Color: Light Blue</li>
+<li>Blitz Microfiber Cloth is 8" x 8"</li>
+<li>Cloth contains no harsh chemicals or abrasives.</li>
+<li>Non-Toxic &amp; Environmentally Friendly</li>
+<li>Made in the USA</li>
+</ul>
+<strong>Blitz Stock # 7808</strong> NOTE: ALL CLOTHS MEASURED OPEN AND FLAT, Logo may vary.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Crystals</s:tag>
+    <s:tag>Microfiber</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385894405</id>
+      <title>Default</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>BLITZ7808</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385893893</id>
+    <published>2016-10-06T12:35:00-04:00</published>
+    <updated>2016-10-06T12:35:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/sterling-silvershine-polishing-cloth"/>
+    <title>Sterling Silver Shine Polishing Cloth</title>
+    <s:type>Jewelry Polishing Cloths</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/118-SilverShine-Care-Cloth.jpg?v=1624977229"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Jewelry Polishing Cloths<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Sterling SilverShine Polishing Cloth is 100% cotton flannel and contains non-toxic polishing agents with BLITZ® Tarnish Inhibitors.
+<ul>
+<li>For all Sterling Silver and SilverPlate.</li>
+<li>Cleans and protects against silver tarnish</li>
+<li>
+<strong>Do not wash</strong>, will remove special cleaning agents.</li>
+<li>Cloth contains no harsh chemicals or abrasives.</li>
+<li>Non-Toxic &amp; Environmentally Friendly</li>
+<li>Made in the USA</li>
+</ul>
+<strong>Blitz Stock #118</strong> Not for use on lacquered surfaces, we recommend buffing with the <span style="color: #0000ff;"><a title="Diamond &amp; Gem Microfiber Cloth" href="https://www.blitzinc.com/products/diamond-and-gem-microfiber-cloth/"><span style="color: #0000ff;">Blitz Diamond &amp; Gem Microfiber Cloth</span></a></span>.
+<div>NOTE: ALL POLISHING CLOTHS MEASURED OPEN AND FLAT</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sterling Silver</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385893893</id>
+      <title>Default</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>BLITZ118</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385892869</id>
+    <published>2016-10-06T12:35:00-04:00</published>
+    <updated>2016-10-06T12:35:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/silver-care-cloth"/>
+    <title>Silver Care Cloth</title>
+    <s:type>Jewelry Polishing Cloths</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/9618-NEW-DC.png?v=1624977285"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Jewelry Polishing Cloths<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This 11"x 14" two-ply cloth is made from 100% soft cotton flannel. The white interior cloth is thoroughly treated with the finest polishing agents that remove and inhibit tarnish and polish silver to a mirror like finish.
+<ul>
+<li>
+<strong>Do not wash</strong>, will remove special cleaning agents.</li>
+<li>Cloth contains no harsh chemicals or abrasives.</li>
+<li>Non-Toxic &amp; Environmentally Friendly</li>
+<li>Made in the USA</li>
+</ul>
+<strong>Blitz Stock # 9618</strong> For badly tarnished silver and large surfaces use <span style="color: #0000ff;"><a href="http://www.blitzinc.com/catalog/silver-care-polish-618"><span style="color: #0000ff;">Blitz® Silver Care Liquid Polish</span></a>.</span> Do not use on thin-plated jewelry, rhodium plating or lacquered silver. NOTE: ALL POLISHING CLOTHS MEASURED OPEN AND FLAT COLOR OF CLOTH MAY VARY</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Silver</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385892869</id>
+      <title>Default</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>BLITZ9618</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385891397</id>
+    <published>2016-10-06T12:34:00-04:00</published>
+    <updated>2016-10-06T12:34:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/jewelry-care-cloth"/>
+    <title>Jewelry Care Cloth</title>
+    <s:type>Jewelry Polishing Cloths</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/9617-NEW-DC.png?v=1624982541"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Jewelry Polishing Cloths<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This 11"x 14" two-ply cloth is made from 100% soft cotton flannel. The white interior cloth is thoroughly treated with the finest polishing agents that remove and inhibit tarnish, leaving gold, silver and platinum shining like new.
+<ul>
+<li>
+<strong>Do not wash</strong>, will remove special cleaning agents.</li>
+<li>Cloth contains no harsh chemicals or abrasives.</li>
+<li>Non-Toxic &amp; Environmentally Friendly</li>
+<li>Made in the USA</li>
+</ul>
+<strong>Blitz Stock # 9617</strong> Do not use on thin-plated jewelry. 24K Gold should only be used with item <span style="color: #0000ff;"><a title="#651 Gem &amp; Jewelry Cleaner" href="https://www.blitzinc.com/products/gem-jewelry-cleaner/"><span style="color: #0000ff;">#651 Gem &amp; Jewelry Cleaner</span></a></span> NOTE: ALL POLISHING CLOTHS MEASURED OPEN AND FLAT COLOR OF CLOTH MAY VARY</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gold</s:tag>
+    <s:tag>Platinum</s:tag>
+    <s:tag>Silver</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385891397</id>
+      <title>Default</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>BLITZ9617</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+</feed>

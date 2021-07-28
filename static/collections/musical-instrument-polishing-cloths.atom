@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://blitzinc.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://blitzinc.myshopify.com/collections/musical-instrument-polishing-cloths.atom"/>
+  <title>Blitz</title>
+  <updated>2016-10-06T12:41:22-04:00</updated>
+  <author>
+    <name>Blitz</name>
+  </author>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385936517</id>
+    <published>2016-10-06T12:41:22-04:00</published>
+    <updated>2016-10-06T12:41:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/guitar-care-cloth"/>
+    <title>Guitar Care Cloth</title>
+    <s:type>Music</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/335_medium_57590d82-1ceb-47d3-b100-16ff0db1457f.jpg?v=1624976786"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Music<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Created by Blitz for the care of the finest, most delicate surfaces. For all guitars. One of the few cleaning cloths that contain both natural carnauba and natural beeswax, with just enough silicone added to assure even distribution of these natural, renewable waxes. Perfect for waxed wood finishes, lacquered wooden surfaces, or even polymer (fiberglass, or wood-polymer composite) surfaces. We suggest you have one cloth for each of your guitars so you can use it after each session.
+<ul>
+	<li>Cloth contains natural carnauba and beeswax</li>
+	<li>Contains one (1) approximately 11" x 14" treated cloth and one (1) approximately 11" x 14" buffing (non-treated) cloth.</li>
+	<li>Made for delicate surfaces</li>
+	<li>100% cotton flannel cloth</li>
+	<li>
+<strong>Do not wash</strong>, will remove special cleaning agents.</li>
+	<li>Cloth contains no harsh chemicals or abrasives.</li>
+	<li>Non-Toxic &amp; Environmentally Friendly</li>
+	<li>Made in the USA</li>
+</ul>
+<strong>Blitz Stock # 335</strong>
+
+NOTE: ALL POLISHING CLOTHS MEASURED OPEN AND FLAT.  Do not use on personalized-with-pen-ink, hand-autographed instruments.
+
+ </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Guitar</s:tag>
+    <s:tag>Lacquered Surfaces</s:tag>
+    <s:tag>Wood</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385936517</id>
+      <title>Default</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>BLITZ335</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385936197</id>
+    <published>2016-10-06T12:41:16-04:00</published>
+    <updated>2016-10-06T12:41:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/drum-hardware-care-cloth"/>
+    <title>Drum Hardware Care Cloth</title>
+    <s:type>Music</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/334_medium_19dda984-7a92-43d1-805f-d7f9afdd9d33.jpg?v=1624976700"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Music<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This special soft cloth has cleaning and polishing agents formulated to maintain the brilliant gloss of the metal hardware of your drum sets. You need no pastes, no powders, or  liquids. Whether the hardware is stainless, chrome, or nickel this cloth will keep tarnish from affecting the metal.
+<ul>
+	<li>100% cotton flannel cloth</li>
+	<li>Helps protect against tarnishing</li>
+	<li>Works on stainless, chrome or nickel</li>
+	<li>
+<div>Contains one (1) approximately 11" x 14" treated cloth.</div>
+</li>
+	<li>
+<strong>Do not wash</strong>, will remove special cleaning agents.</li>
+	<li>Cloth contains no harsh chemicals or abrasives.</li>
+	<li>Non-Toxic &amp; Environmentally Friendly</li>
+	<li>Made in the USA</li>
+</ul>
+<div><strong>Blitz Stock # 334</strong></div>
+<div>
+
+</div>
+<div>NOTE: ALL POLISHING CLOTHS MEASURED OPEN AND FLAT.  Do not use on lacquered metal.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chrome</s:tag>
+    <s:tag>Drum Hardware</s:tag>
+    <s:tag>Nickel</s:tag>
+    <s:tag>Stainless Steel</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385936197</id>
+      <title>Default</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>BLITZ334</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385937093</id>
+    <published>2016-10-06T12:41:00-04:00</published>
+    <updated>2016-10-06T12:41:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/nickel-and-chrome-care-cloth"/>
+    <title>Nickel and Chrome Care Cloth</title>
+    <s:type>Music</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/Nickel-and-Chrome-Care-Cloth.jpg?v=1624976837"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Music<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This special soft cloth has cleaning and polishing agents formulated to keep nickel and chrome shining to a brilliant gloss. You need no pastes, no powders, or liquids.
+<ul>
+<li>100% cotton flannel cloth</li>
+<li>Helps restore a perfect shine</li>
+<li>For use on nickel and chrome</li>
+<li>Contains one (1) approximately 11"x 14" treated cloth</li>
+<li>
+<strong>Do not wash</strong>, will remove special cleaning agents.</li>
+<li>Cloth contains no harsh chemicals or abrasives.</li>
+<li>Non-Toxic &amp; Environmentally Friendly</li>
+<li>Made in the USA</li>
+</ul>
+<div><strong>Blitz Stock # 310</strong></div>
+<div></div>
+<div>NOTE: ALL POLISHING CLOTHS MEASURED OPEN AND FLAT</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chrome</s:tag>
+    <s:tag>Nickel</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385937093</id>
+      <title>Default</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>BLITZ310</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385935237</id>
+    <published>2016-10-06T12:41:00-04:00</published>
+    <updated>2016-10-06T12:41:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/cymbal-care-cloth"/>
+    <title>Cymbal Care Cloth</title>
+    <s:type>Music</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/312_medium_b150eeb6-720d-4c0f-9bbb-fcb927c5d6d9.jpg?v=1624976632"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Music<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This is the classic cloth for true brass instruments. The polish is in the cloth, and our tarnish eater ingredients are water-based. There are no harmful agents. Whether you have cymbals or unlacquered brass instruments, this cloth is ready to use out of the pouch. Always make sure that Blitz Cymbal Care is moist. If it dries out, you can add a little water to dampen it, but never wash it because you'll remove the special ingredients.
+<ul>
+<li>Polish treated instrument care cloth</li>
+<li>Water based ingredients take away tarnish</li>
+<li>Can be used on unlacquered brass instruments or cymbals</li>
+<li>Contains one (1) approximately 11" x 14" treated cloth.</li>
+<li>
+<strong>Do not wash</strong>, will remove special cleaning agents.</li>
+<li>Cloth contains no harsh chemicals or abrasives.</li>
+<li>Non-Toxic &amp; Environmentally Friendly</li>
+<li>Made in the USA</li>
+</ul>
+<div><strong>Blitz Stock # 312</strong></div>
+<div></div>
+<div>
+<strong></strong>NOTE: ALL POLISHING CLOTHS MEASURED OPEN AND FLAT</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brass</s:tag>
+    <s:tag>Cymbals</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385935237</id>
+      <title>Default</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>BLITZ312</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385934469</id>
+    <published>2016-10-06T12:41:00-04:00</published>
+    <updated>2016-10-06T12:41:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/gloss-care-cloth-for-band-instruments"/>
+    <title>Gloss Care Cloth for Band Instruments</title>
+    <s:type>Music</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/306_medium_3c660180-8a9a-4ca3-9e0d-24c30f7f5680.jpg?v=1624976740"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Music<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This cloth has been treated to absorb moisture, remove fingerprints, remove natural oils that dull the instruments' finish, and leave behind a gentle protective shield of silicone on the surface. Blitz developed this to maintain and preserve the finish of heavily used, fine band instruments.
+<ul>
+<li>Helps protect against moisture</li>
+<li>Safe for use on lacquered surfaces</li>
+<li>Contains one (1) approximately 11" x 14".</li>
+<li>
+<strong>Do not wash</strong>, will remove special cleaning agents.</li>
+<li>Cloth contains no harsh chemicals or abrasives.</li>
+<li>Non-Toxic &amp; Environmentally Friendly</li>
+<li>Made in the USA</li>
+</ul>
+<strong>Blitz Stock # 306</strong> NOTE: ALL POLISHING CLOTHS MEASURED OPEN AND FLAT</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Band Instruments</s:tag>
+    <s:tag>Lacquered Surfaces</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385934469</id>
+      <title>Default</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>BLITZ306</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385905349</id>
+    <published>2016-10-06T12:37:08-04:00</published>
+    <updated>2016-10-06T12:37:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/violin-viola-cello-and-bass-care-cloth"/>
+    <title>Violin, Viola, Cello and Bass Care Cloth</title>
+    <s:type>Music</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/Violin-Viola-Cello-and-Bass-Cloth.jpg?v=1624976884"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Music<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Created by Blitz for the care of the finest, most delicate surfaces. For all wooden violins, violas, and cellos. One of the few cleaning cloths that contain both natural carnauba and natural beeswax, with just enough silicone added to assure even distribution of these natural, renewable waxes. Perfect for waxed wood finish or lacquered wooden surfaces of violins, violas, and cellos.
+<div>
+<ul>
+	<li>Treated with carnauba and beeswax for delicate surfaces</li>
+	<li>For use on waxed wood finish or lacquered wooden surfaces</li>
+	<li>100% Cotton Flannel cloth</li>
+	<li>Contains one (1) approximately 11" x 14" treated cloth and one (1) approximately 11" x 14" buffing (non-treated) cloth</li>
+	<li>
+<strong>Do not wash</strong>, will remove special cleaning agents.</li>
+	<li>Cloth contains no harsh chemicals or abrasives.</li>
+	<li>Non-Toxic &amp; Environmentally Friendly</li>
+	<li>Made in the USA</li>
+</ul>
+<strong>Blitz Stock # 333</strong>
+
+NOTE: ALL POLISHING CLOTHS MEASURED OPEN AND FLAT
+
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wood</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385905349</id>
+      <title>Default</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>BLITZ333</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385905733</id>
+    <published>2016-10-06T12:37:00-04:00</published>
+    <updated>2016-10-06T12:37:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/gloss-care-cloth"/>
+    <title>Gloss Care Cloth</title>
+    <s:type>Music</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/Gloss-Care-Cloth.jpg?v=1624976915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Music<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Blitz Gloss Care Cloth Gloss Care is a double soft, double brushed polishing cloth. It's been developed to assure the preservation of the finish on fine musical instruments. Gloss Care absorbs moisture, removes fingerprints and natural oils that can mar the instruments finish.
+<ul>
+<li>Polish treated cloth</li>
+<li>Absorbs moisture, removes fingerprints, removes natural oils</li>
+<li>For use on lacquered and coated surfaces</li>
+<li>Contains one (1) specially treated cloth, approximately 11" x 14"</li>
+<li>
+<strong>Do not wash</strong>, will remove special cleaning agents.</li>
+<li>Cloth contains no harsh chemicals or abrasives.</li>
+<li>Non-Toxic &amp; Environmentally Friendly</li>
+<li>Made in the USA</li>
+</ul>
+<strong>Blitz Stock # 302</strong> NOTE: ALL POLISHING CLOTHS MEASURED OPEN AND FLAT</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gloss</s:tag>
+    <s:tag>Lacquered Surfaces</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385905733</id>
+      <title>Default</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>BLITZ302</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385904325</id>
+    <published>2016-10-06T12:36:56-04:00</published>
+    <updated>2016-10-06T12:36:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/slide-and-valve-care-cloth"/>
+    <title>Slide and Valve Care Cloth</title>
+    <s:type>Music</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/304-SLIDE-VALVE-CARE.jpg?v=1624976969"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Music<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Blitz Slide and Valve care cloth provides effective cleaning, extends time between cleanings, and helps make valve oil more effective by reducing tarnish build up.  This care cloth was created to clean slides, valves, and tenons on any of the brass family of musical instruments. It is also appropriate  to use wherever there are friction connections made of metal in a woodwind instrument.
+<ul>
+	<li>100% cotton flannel cloth</li>
+	<li>For use on slides and valves for brass instruments</li>
+	<li>Contains one (1) approximately 11" X 14" treated cloth</li>
+	<li>
+<strong>Do not wash</strong>, will remove special cleaning agents.</li>
+	<li>Cloth contains no harsh chemicals or abrasives.</li>
+	<li>Non-Toxic &amp; Environmentally Friendly</li>
+	<li>Made in the USA</li>
+</ul>
+<strong>Blitz Stock # 304</strong>
+
+NOTE: ALL POLISHING CLOTHS MEASURED OPEN AND FLAT</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brass</s:tag>
+    <s:tag>Slide &amp; Valve</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385904325</id>
+      <title>Default</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>BLITZ304</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385901509</id>
+    <published>2016-10-06T12:36:27-04:00</published>
+    <updated>2016-10-06T12:36:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/string-care-cloth"/>
+    <title>String Care Cloth</title>
+    <s:type>Music</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/string-care-cloth.jpg?v=1624976601"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Music<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Specially treated String Care cleaning cloth removes dirt and tarnish with little effort. String Care can be used on all metal strings for both acoustic and electric instruments. It leaves a protective shield on strings.
+Easy to use! Wipe strings gently with the String Care cleaning cloth. The yellow cloth will darken with use, but will continue to be an effective cleaner. Polish with the gray cloth, leaving as much of the protective shield as is desired to make the strings slick.
+<ul>
+	<li>Removes dirt and tarnish</li>
+	<li>Can be used on all metal strings</li>
+	<li>Contains one (1) specially treated cloth (approximately 8" x 10") and one (1) buffing cloth</li>
+	<li>
+<strong>Do not wash</strong>, will remove special cleaning agents.</li>
+	<li>Cloth contains no harsh chemicals or abrasives.</li>
+	<li>Non-Toxic &amp; Environmentally Friendly</li>
+	<li>Made in the USA</li>
+</ul>
+<strong>Blitz Stock # 301</strong>
+
+The Blitz Cloth recommended by, Dan Erlewine, in "The Guitar Player Repair Guide", a best-seller in the field of guitar repair.
+
+NOTE: ALL POLISHING CLOTHS MEASURED OPEN AND FLAT.  Not for lacquered surfaces.  Use only for metal strings.
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Strings</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385901509</id>
+      <title>Default</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>BLITZ301</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385903557</id>
+    <published>2016-10-06T12:36:00-04:00</published>
+    <updated>2016-10-06T12:36:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/wood-lacquer-care-cloth"/>
+    <title>Wood &amp; Lacquer Care Cloth</title>
+    <s:type>Music</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/311-WOOD-LACQUER.jpg?v=1624976994"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Music<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This cloth was created by Blitz for the care of the finest, most delicate surfaces. For all wooden musical instruments. One of the few cleaning cloths that contain both natural carnauba and natural beeswax, with just enough silicone added to assure even distribution of these natural, renewable waxes. Perfect for waxed wood finish or lacquered wooden surfaces of pianos, violins, guitars, violas, wooden wind instruments, cellos, and more.
+<ul>
+<li>Treated with carnauba and beeswax for delicate surfaces</li>
+<li>Made for wooden instruments</li>
+<li>100% Cotton Flannel</li>
+<li>Contains one (1) approximately 11" x 14" treated cloth</li>
+<li>Does not contain lacquer</li>
+<li>
+<strong>Do not wash</strong>, will remove special cleaning agents.</li>
+<li>Cloth contains no harsh chemicals or abrasives.</li>
+<li>Non-Toxic &amp; Environmentally Friendly</li>
+<li>Made in the USA</li>
+</ul>
+<strong>Blitz Stock # 311</strong> NOTE: ALL POLISHING CLOTHS MEASURED OPEN AND FLAT</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wood</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385903557</id>
+      <title>Default</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>BLITZ311</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385902533</id>
+    <published>2016-10-06T12:36:00-04:00</published>
+    <updated>2016-10-06T12:36:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/metal-care-cloth-for-musical-instruments"/>
+    <title>Metal Care Cloth for Musical Instruments</title>
+    <s:type>Music</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/303.png?v=1624976556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Music<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This 100% cotton flannel cloth is specially treated for the care, cleaning, and polishing of soft metal surfaces that are not coated or lacquered. Formulated to gently remove tarnish and give a brilliant lasting shine. Metal Care can be safely used on gold, silver, brass, and plated metals.
+<ul>
+<li>100% Cotton Flannel</li>
+<li>Protects Instruments from tarnish</li>
+<li>Contains one (1) two-ply cloth approximately 11" x 14" unfolded.</li>
+<li>
+<strong>Do not wash</strong>, will remove special cleaning agents.</li>
+<li>Cloth contains no harsh chemicals or abrasives.</li>
+<li>Non-Toxic &amp; Environmentally Friendly</li>
+<li>Made in the USA</li>
+</ul>
+<strong>Blitz Stock # 303</strong> NOTE: ALL POLISHING CLOTHS MEASURED OPEN AND FLAT. Do not use on coated or lacquered surfaces. Not recommended for Rhodium plated items.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brass</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:tag>Metal Care Cloth</s:tag>
+    <s:tag>Plated Metals</s:tag>
+    <s:tag>Silver</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385902533</id>
+      <title>Default</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>BLITZ303</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+</feed>

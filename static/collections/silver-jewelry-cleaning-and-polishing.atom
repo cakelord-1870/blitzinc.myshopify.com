@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://blitzinc.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://blitzinc.myshopify.com/collections/silver-jewelry-cleaning-and-polishing.atom"/>
+  <title>Blitz</title>
+  <updated>2021-06-04T10:43:08-04:00</updated>
+  <author>
+    <name>Blitz</name>
+  </author>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6821659607190</id>
+    <published>2021-06-04T10:43:08-04:00</published>
+    <updated>2021-06-04T10:43:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/blitz-silver-jewelry-polish"/>
+    <title>Blitz Silver Jewelry Polish</title>
+    <s:type>polish</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/Untitleddesign_46.png?v=1624383855"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>polish<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Blitz Silver Jewelry Polish cleans and restores the original brilliance to silver and silver-plated flatware, hollowware and accessories. This product contains no alcohol, no ammonia, no acids, no V.O.C. &amp; no abrasives. The polish is listed as one of the four least abrasive silver polishes from an independent study by silver conservator Jeffrey Herman as found on his </span><span data-mce-fragment="1"><a href="http://www.hermansilver.com/silver-polish-abrasion-ratings.htm" data-mce-fragment="1" data-mce-href="http://www.hermansilver.com/silver-polish-abrasion-ratings.htm" target="_blank">Silver Polish Abrasion Ratings</a></span><span data-mce-fragment="1"> page.</span>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">8 FL. OZ.</li>
+<li data-mce-fragment="1">Private Label available<span data-mce-fragment="1"> </span><span data-mce-fragment="1"><a href="https://www.blitzinc.com/pages/blitz-wholesale" data-mce-fragment="1" data-mce-href="https://www.blitzinc.com/pages/blitz-wholesale">Visit our Wholesale Site for more info!</a></span>
+</li>
+<li data-mce-fragment="1">NonToxic and Environmentally Friendly</li>
+<li data-mce-fragment="1">Made in the USA</li>
+</ul>
+<strong data-mce-fragment="1">Blitz Stock # 618</strong><span data-mce-fragment="1"> </span><em data-mce-fragment="1">CAUTION: DO NOT USE ON LACQUERED OR COATED SURFACES. ALWAYS FOLLOW MANUFACTURER'S RECOMMENDATIONS PRIOR TO USE.</em></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>silver cleaning</s:tag>
+    <s:tag>silver jewelry polish</s:tag>
+    <s:tag>silver polish</s:tag>
+    <s:tag>tarnish removing</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6821659607190</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>618</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385992517</id>
+    <published>2016-11-15T10:50:00-05:00</published>
+    <updated>2016-11-15T10:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/hermans-simply-clean"/>
+    <title>Herman&apos;s Simply Clean</title>
+    <s:type>Liquid Jewelry Cleaner</s:type>
+    <s:vendor>Herman&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/hermans-simply-clean.jpg?v=1624977055"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Herman&#39;s<br>
+        <strong>Type: </strong>Liquid Jewelry Cleaner<br>
+        <strong>Price: </strong>
+            13.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Developed by an internationally respected silver conservator who has researched polishes for 30+ years.</li>
+<li>Mild enough for museum objects and your finest sterling and silver-plated flatware, holloware, and jewelry</li>
+<li>Contains no harsh abrasives</li>
+<li>No ammonia</li>
+<li>No acids</li>
+<li>Non-toxic</li>
+<li>Earth-friendly</li>
+<li>pH: 7.5</li>
+<li>Fragrance-free</li>
+<li>Creamy consistency</li>
+<li>Leaves no residue</li>
+<li>Removes fingerprints from stainless steel</li>
+<li>Complimentary silver cleaning assistance</li>
+<li>Made in the USA</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385992517</id>
+      <title>Default</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>BLITZ21031R</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385972421</id>
+    <published>2016-10-06T12:46:00-04:00</published>
+    <updated>2016-10-06T12:46:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/silver-guardian"/>
+    <title>Silver Guardian</title>
+    <s:type>Jewelry Care Products</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/Silver-Guardian-Insert.png?v=1624977090"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Jewelry Care Products<br>
+        <strong>Price: </strong>
+            10.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Silver Guardian is the perfect companion for even the largest silver collection. Simply store your favorite silver jewelry, flat-ware or hollowware next to the Silver Guardian. These packets will absorb agents that cause tarnish for up to three months.
+<ul>
+<li>Silver Protection</li>
+<li>Based on the ancient magic of activated Bamboo Charcoal</li>
+<li>Will protect up to 8 cu ft</li>
+<li>Contains 2 fully active 24 gram packets</li>
+<li>Patented process</li>
+<li>Non-Toxic &amp; Environmentally Friendly</li>
+<li>Made in the USA</li>
+</ul>
+<strong>Blitz Stock # 20912</strong></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Silver</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385972421</id>
+      <title>Default</title>
+      <s:price currency="USD">10.95</s:price>
+      <s:sku>BLITZ20912</s:sku>
+      <s:grams>168</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385929861</id>
+    <published>2016-10-06T12:40:23-04:00</published>
+    <updated>2016-10-06T12:40:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/silver-care-mitts"/>
+    <title>Silver Care Mitts</title>
+    <s:type>Housewares</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/Silver-Care-Mitts.jpg?v=1624977178"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Housewares<br>
+        <strong>Price: </strong>
+            10.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">These unique mitts are formulated to clean and polish silver to a beautiful gleaming luster. The special formula leaves behind an anti-tarnish treatment so that your silver remains shiny and beautiful! They are made with finest cleaning and polishing agents, especially selected for sterling and silver-plate.  The sewn design fits all hands and makes polishing your silver easy and effective.
+<ul>
+	<li>Two in each package!</li>
+	<li>
+<strong>Do not wash</strong>, will remove special cleaning agents.</li>
+	<li>Cloth contains no harsh chemicals or abrasives.</li>
+	<li>Non-Toxic &amp; Environmentally Friendly</li>
+	<li>Made in the USA</li>
+</ul>
+<strong>Blitz Stock # 502</strong>
+
+Silver Care Mitts are recommended by Feinberg English Silver - <span style="color: #0000ff;">"<a title="Silver Care Mitts on Feinberg English Silver" href="http://fesilver.com/clean.htm"><span style="color: #0000ff;">Sterling &amp; Silver Plate Polishing &amp; Cleaning Tips</span></a>"</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mitts</s:tag>
+    <s:tag>Silver</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385929861</id>
+      <title>Default</title>
+      <s:price currency="USD">10.95</s:price>
+      <s:sku>BLITZ502</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385929157</id>
+    <published>2016-10-06T12:40:00-04:00</published>
+    <updated>2016-10-06T12:40:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/silver-shine-polish"/>
+    <title>Silver Shine Polish</title>
+    <s:type>Housewares</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/Untitleddesign_45_2936aed0-582f-4e5a-b293-b33d90f4ed7e.png?v=1624976456"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Housewares<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Blitz Silver Shine Polish cleans and restores the original brilliance to silver and silver-plated flatware, hollowware and accessories. This product contains no alcohol, no ammonia, no acids, no V.O.C. &amp; no abrasives. The polish is listed as one of the four least abrasive silver polishes from an independent study by silver conservator Jeffrey Herman as found on his <span style="color: #0000ff;"><a style="color: #0000ff;" href="http://www.hermansilver.com/silver-polish-abrasion-ratings.htm" target="_blank" rel="noopener noreferrer">Silver Polish Abrasion Ratings</a></span> page.
+<ul>
+<li>8 FL OZ</li>
+<li>Private Label available <span style="color: #0000ff;"><a href="https://www.blitzinc.com/pages/blitz-wholesale"><span style="color: #0000ff;"> Visit our Wholesale Site for more info!</span></a></span>
+</li>
+<li>Non-Toxic and Environmentally Friendly</li>
+<li>Made in the USA</li>
+</ul>
+<strong>Blitz Stock # 20633</strong> <em>CAUTION: DO NOT USE ON LACQUERED OR COATED SURFACES. ALWAYS FOLLOW MANUFACTURER'S RECOMMENDATIONS PRIOR TO USE.</em></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Metal Polish</s:tag>
+    <s:tag>Silver</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385929157</id>
+      <title>Default</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>BLITZ20633</s:sku>
+      <s:grams>281</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385913925</id>
+    <published>2016-10-06T12:38:17-04:00</published>
+    <updated>2016-10-06T12:38:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/silver-jewelry-polish"/>
+    <title>Silver Jewelry Polish</title>
+    <s:type>Liquid Jewelry Cleaner</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/Untitleddesign_44_4a83f1ca-6071-419a-84ab-dfd3661e685a.png?v=1624982820"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Liquid Jewelry Cleaner<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This specially formulated polish contains non-toxic tarnish inhibitors to remove tarnish and prevent it from returning, leaving a mirror like finish to your silver jewelry! Simply remove the cap and apply polish to the surface of your jewelry. Use a lint free &amp; non-abrasive cloth to polish away tarnish and surface imperfections.
+<ul>
+<li>Odor free</li>
+<li>Private Label available <span style="color: #0000ff;"><a href="https://www.blitzinc.com/pages/blitz-wholesale"><span style="color: #0000ff;">Visit our Wholesale Site for more info!</span></a></span>
+</li>
+<li>Non-Toxic and Environmentally Friendly</li>
+<li>Made in the USA</li>
+</ul>
+<strong>Blitz Stock # 611</strong> NOTE: NOT FOR USE ON LACQUERED SURFACES</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Silver</s:tag>
+    <s:tag>Silver Polish</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385913925</id>
+      <title>Default</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>BLITZ611</s:sku>
+      <s:grams>395</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385915845</id>
+    <published>2016-10-06T12:38:00-04:00</published>
+    <updated>2016-10-06T12:38:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/ultrasonic-silver-cleaning-kit"/>
+    <title>Ultrasonic Silver Cleaning Kit</title>
+    <s:type>Jewelry Cleaning Machines</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/ultrasonic_silver_cleaning_kit_medium_bac14fc8-f310-434f-bf16-283b9a2c7be0.jpg?v=1624977116"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Jewelry Cleaning Machines<br>
+        <strong>Price: </strong>
+            10.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Ultrasonic Silver Cleaning Kit easily removes tarnish from silver and consists of the special re-usable Silver Cleaning Plate and 4 Activator Packets. For use with an Ultrasonic jewelry cleaning machine. Mix 10:1 ratio with HOT tap or distilled water.
+<ul>
+<li>Non-Toxic and Environmentally Friendly</li>
+<li>Made in the USA</li>
+</ul>
+<strong>Blitz Stock #20762</strong> NOTE: The silver cleaning plate is suitable to be used more than once. You simply will need more of the packets, which can be purchased at any time. WARNING: Soft and porous stones, or any other gems may not be suitable for an ultrasonic cleaner. Do not store the silver cleaning plate in the solution between uses.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Silver</s:tag>
+    <s:tag>Ultrasonic</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385915845</id>
+      <title>Default</title>
+      <s:price currency="USD">10.95</s:price>
+      <s:sku>BLITZ20762</s:sku>
+      <s:grams>141</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385915013</id>
+    <published>2016-10-06T12:38:00-04:00</published>
+    <updated>2016-10-06T12:38:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/silvershine-silver-jewelry-cleaner"/>
+    <title>Silver Shine Instant Jewelry Cleaner</title>
+    <s:type>Jewelry Care Kits</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/681-NEW-packaging1.jpg?v=1624977144"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Jewelry Care Kits<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Easily and instantly remove tarnish from silver without the use of harsh or toxic chemicals. Using nothing but tap water and our Activator Solution, watch as tarnish is immediately lifted from the surface of your silver. Each box of this silver jewelry cleaner contains a 4" x 6" two-ply treated silver buffing and polishing cloth, three of the special trays, basket, and a ready to mix silver cleaning solution. It all comes packaged in a wide mouth jar to easily clean larger pieces of silver jewelry. Refills of the <span style="color: #0000ff;"><a title="Activator Solution" href="https://www.blitzinc.com/collections/jewelry-cleaning-liquid/products/activator-solution"><span style="color: #0000ff;">Activator Solution</span></a></span> can be purchased right here at Blitzinc.com!
+<ul>
+<li>
+<strong>Do not wash</strong>, will remove special cleaning agents.</li>
+<li>Cloth contains no harsh chemicals or abrasives.</li>
+<li>Non-Toxic &amp; Environmentally Friendly</li>
+<li>Made in the USA</li>
+</ul>
+<strong>Blitz Stock # 681</strong> Need instructions for use? Watch the <span style="color: #0000ff;"><a title="Silver Shine Tutorial " href="http://www.youtube.com/watch?v=JmDURDOSMc0"><span style="color: #0000ff;">Silver Shine Instant Jewelry Cleaner Tutorial Video</span></a>!</span> NOTE: ALL CLOTHS MEASURED FLAT AND OPEN</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Silver</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385915013</id>
+      <title>Default</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>BLITZ681</s:sku>
+      <s:grams>168</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385900805</id>
+    <published>2016-10-06T12:36:21-04:00</published>
+    <updated>2016-10-06T12:36:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/ultra-silver-polishing-cloth"/>
+    <title>Ultra Silver Polishing Cloth</title>
+    <s:type>Jewelry Polishing Cloths</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/Ultra-Silver-Polishing-Cloth.jpg?v=1624977254"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Jewelry Polishing Cloths<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This cloth restores your silver jewelry, silver-plate and hollowware to its original brilliance.  This cloth will remove tarnish from the surface of silver while also applying a tarnish inhibiting layer to the surface allowing for longer protection.  This single-ply silver polishing cloth can be used again and again, even after the cloth begins to darken.
+<ul>
+	<li>
+<strong>Do not wash</strong>, will remove special cleaning agents.</li>
+	<li>Cloth contains no harsh chemicals or abrasives.</li>
+	<li>Non-Toxic &amp; Environmentally Friendly</li>
+	<li>Made in the USA</li>
+</ul>
+<strong>Blitz Stock # 93118</strong>
+
+The Ultra Silver Polishing Cloth is not meant for use on lacquered surfaces.
+
+NOTE: ALL POLISHING CLOTHS MEASURED OPEN AND FLAT
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Silver</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385900805</id>
+      <title>Default</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>BLITZ93118</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385893893</id>
+    <published>2016-10-06T12:35:00-04:00</published>
+    <updated>2016-10-06T12:35:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/sterling-silvershine-polishing-cloth"/>
+    <title>Sterling Silver Shine Polishing Cloth</title>
+    <s:type>Jewelry Polishing Cloths</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/118-SilverShine-Care-Cloth.jpg?v=1624977229"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Jewelry Polishing Cloths<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Sterling SilverShine Polishing Cloth is 100% cotton flannel and contains non-toxic polishing agents with BLITZ® Tarnish Inhibitors.
+<ul>
+<li>For all Sterling Silver and SilverPlate.</li>
+<li>Cleans and protects against silver tarnish</li>
+<li>
+<strong>Do not wash</strong>, will remove special cleaning agents.</li>
+<li>Cloth contains no harsh chemicals or abrasives.</li>
+<li>Non-Toxic &amp; Environmentally Friendly</li>
+<li>Made in the USA</li>
+</ul>
+<strong>Blitz Stock #118</strong> Not for use on lacquered surfaces, we recommend buffing with the <span style="color: #0000ff;"><a title="Diamond &amp; Gem Microfiber Cloth" href="https://www.blitzinc.com/products/diamond-and-gem-microfiber-cloth/"><span style="color: #0000ff;">Blitz Diamond &amp; Gem Microfiber Cloth</span></a></span>.
+<div>NOTE: ALL POLISHING CLOTHS MEASURED OPEN AND FLAT</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sterling Silver</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385893893</id>
+      <title>Default</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>BLITZ118</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blitzinc.myshopify.com/products/6385892869</id>
+    <published>2016-10-06T12:35:00-04:00</published>
+    <updated>2016-10-06T12:35:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blitzinc.myshopify.com/products/silver-care-cloth"/>
+    <title>Silver Care Cloth</title>
+    <s:type>Jewelry Polishing Cloths</s:type>
+    <s:vendor>Blitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1525/3292/products/9618-NEW-DC.png?v=1624977285"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blitz<br>
+        <strong>Type: </strong>Jewelry Polishing Cloths<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This 11"x 14" two-ply cloth is made from 100% soft cotton flannel. The white interior cloth is thoroughly treated with the finest polishing agents that remove and inhibit tarnish and polish silver to a mirror like finish.
+<ul>
+<li>
+<strong>Do not wash</strong>, will remove special cleaning agents.</li>
+<li>Cloth contains no harsh chemicals or abrasives.</li>
+<li>Non-Toxic &amp; Environmentally Friendly</li>
+<li>Made in the USA</li>
+</ul>
+<strong>Blitz Stock # 9618</strong> For badly tarnished silver and large surfaces use <span style="color: #0000ff;"><a href="http://www.blitzinc.com/catalog/silver-care-polish-618"><span style="color: #0000ff;">Blitz® Silver Care Liquid Polish</span></a>.</span> Do not use on thin-plated jewelry, rhodium plating or lacquered silver. NOTE: ALL POLISHING CLOTHS MEASURED OPEN AND FLAT COLOR OF CLOTH MAY VARY</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Silver</s:tag>
+    <s:variant>
+      <id>https://blitzinc.myshopify.com/products/6385892869</id>
+      <title>Default</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>BLITZ9618</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,5 @@
+baseURL = "192.241.138.81"
+publishDir = "public"
+languageCode = "en-us"
+title = "Gladfolk Wholesale"
+environment = "development"
