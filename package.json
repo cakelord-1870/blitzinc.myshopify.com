@@ -10,10 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/cakelord-1870/blitzinc.myshopify.com.git"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/cakelord-1870/blitzinc.myshopify.com/issues"
   },
-  "homepage": "https://github.com/cakelord-1870/blitzinc.myshopify.com#readme"
+  "homepage": "https://github.com/cakelord-1870/blitzinc.myshopify.com#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
